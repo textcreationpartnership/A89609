@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to Mr. VVil. Prynn Esq; and two for the Parliament and Army. Reproving the one, and justifying the other in their late proceedings. Presented to the consideration of the readers of Mr. William Prynns last books.</title>
+            <author>Marten, Henry, 1602-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89609</idno>
+            <idno type="STC">Wing M825</idno>
+            <idno type="STC">Thomason E537_16</idno>
+            <idno type="STC">ESTC R202874</idno>
+            <idno type="EEBO-CITATION">99863017</idno>
+            <idno type="PROQUEST">99863017</idno>
+            <idno type="VID">164853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164853)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to Mr. VVil. Prynn Esq; and two for the Parliament and Army. Reproving the one, and justifying the other in their late proceedings. Presented to the consideration of the readers of Mr. William Prynns last books.</title>
+                  <author>Marten, Henry, 1602-1680.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Brewster, and are to be sold at the west-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Marten.</note>
+                  <note>Annotation on Thomason copy: "Jan 6 1648". The 9 in 1649 has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164853:1" rendition="simple:additions"/>
+            <p>A WORD TO M<hi rend="sup">r.</hi> VVil. Prynn <abbr>Eſq</abbr>
+               <hi>AND TWO FOR THE</hi> Parliament and Army.</p>
+            <p>Reproving the one, and juſtifying the other in their late proceedings.</p>
+            <p>Preſented to the conſideration of the Readers of Mr. <hi>William Prynns</hi> laſt Book.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Brewſter,</hi> and are to be ſold at the <hi>Weſt-end</hi> of <hi>Pauls.</hi> 164<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164853:2"/>
+            <pb n="3" facs="tcp:164853:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>Here was never any age before this, in which writing was ſo much in faſhion, <hi>Scribimus indocti doctique;</hi> ſo as it ſhould ſeem, there is a certain Letchery in Scribling; to which I fear, Mr. <hi>William Prynne</hi> of <hi>Lincolns</hi> Inne Eſquire, is not a little given. For how much Paper he hath ſpoyled in this kinde, I leave to the judgment of all men that are not (as he) pretenders onely, to learning. When this diſeaſe firſt took him, he choſe to make the Hierarchy his enemies, afterward the <hi>King,</hi> the <hi>Queen,</hi> and all the Court at a time; when neither his Pen nor ſufferings (were he the man he would be thought) could ad<g ref="char:EOLhyphen"/>vantage the godly party. His Books were then as they are now, ſtuft with non-ſence, railing, impro<g ref="char:EOLhyphen"/>per Inſtances miſunderſtood, and miſ-applyed Au<g ref="char:EOLhyphen"/>thorities; onely he was ever moſt careful of a gin<g ref="char:EOLhyphen"/>gling Title, as <hi>unlovely love locks, unhealthy drinking of healths, &amp;c.</hi> And indeed, this may be ſaid for him, His whole Book is ſuitable to his Title. For writing theſe Books, he ſuffered very much; and truly (as I think) not altogether undeſervedly; for it cannot appear to any reaſonable man, that he brought himſelf into all his troubles, otherwiſe then following his own wicked ſpirit of contradiction. For the Parliament as ſoon, almoſt, as they were met
+<pb n="3" facs="tcp:164853:3" rendition="simple:additions"/>together, ſent for him (then a Priſoner,) they review all proceedings both in the <hi>High Commiſsion Court,</hi> and <hi>Star Chamber</hi> againſt him, they vote them illegal, they reſtore what they can; his Liberty: but in<g ref="char:EOLhyphen"/>ſtead of his Ears (they being irrecoverable) he is voted 5000 l.</p>
+            <p>A man might now without fear of being judged raſh, ingage himſelf for this mans honeſty to the Parliament; but as a Dog to his Vomit, he returns to ſcribling, and having catcht at the deſires of wiſe<g ref="char:EOLhyphen"/>men (who admitted him, becauſe of his ſufferings to their company) fit ſome yeers after for publication, he not being able to hold any longer, untimely ac<g ref="char:EOLhyphen"/>quaints the people with what they were not then enabled to underſtand; by which means, divers perſons ſtaggering betwixt honeſty and malignancy, quite fell off; and many others pretty well inclined to the publike, began to waver: and thus fitted for temptation, ſoon found an opportunity of departing from us. Thus was the <hi>common enemy</hi> furniſht with friends, by the folly and letchery of writing of M. <hi>William Prynne,</hi> and his companions, and put into a better condition of rebelling againſt the Parliament, then otherwiſe he could have been.</p>
+            <p>The Wars begun, the Parliament ſeems ſome<g ref="char:EOLhyphen"/>thing too ſtrong for the King; the <hi>Scots</hi> in conſider<g ref="char:EOLhyphen"/>ation of a great ſum of money, preſent us with a cheat, which they call a Covenant, divers honeſt men diſcovering the ſnare, avoyd it. Heres an op<g ref="char:EOLhyphen"/>portunity for the Crop-Eared Lawyer; he ſees the Parliament breaking into faction, and now he lays about him. Firſt, he writes for the Scotch Eccle<g ref="char:EOLhyphen"/>fiaſtick Government in <hi>England,</hi> and within ſix
+<pb n="5" facs="tcp:164853:3"/>weeks (in maner) againſt it: The two Factions ob<g ref="char:EOLhyphen"/>tain names of <hi>Independent</hi> and <hi>Presbyterian,</hi> (which is malignant <hi>jure divino,</hi>) he now calls them by their names, and rayls at them one after another (till within theſe twenty months (or thereabouts) he hath contented himſelf to rayl onely on one ſide.) This humor of his puts me in minde of a Gentle<g ref="char:EOLhyphen"/>man that was as nimble with his ſword, as this Mr. <hi>William</hi> with his Pen. It happened that two ſet up<g ref="char:EOLhyphen"/>on one; this blade taking pleaſure in fighting, draws, and takes part with the ſingle man: now they are two to two. It fell out, that two men, friends to the ſingle man come by, and ſeeing their friend ingaged, take part with him; the contentious Gen<g ref="char:EOLhyphen"/>tleman ſeeing that, goes over to the other ſide, and making them three to three, fights as eagerly as before.</p>
+            <p>Were we ſo happy, as to cloſe up all breaches, and that all parties were now reſolved into one, this Mr. <hi>Prynne</hi> would ſingly oppoſe the whole Com<g ref="char:EOLhyphen"/>mon-Wealth, and rayl, as dogs bark againſt the Moon.</p>
+            <p>Should the Apoſtles come from Heaven, ſent thence to inſtitute a Government, Mr. <hi>Prynne</hi> would diſſent from, and wrangle with them. I cannot therefore chooſe but wonder, that he ſhould be ſo much troubled at his ſufferings, eſpecially at his preſent impriſonment: ſince, if he have but ſo much time as to look into himſelf ſeriouſly, he muſt needs finde that he can live in no place, nor in any age, but that he muſt ſuffer. For making his Proteſtation, and Printing it, I blame him not; for I beleeve he could not wellavoyd it, his fit thentaking
+<pb n="6" facs="tcp:164853:4"/>him, which muſt have its courſe; but that he ſhould ſo much complain of his former ſufferings, is a non-ſence (though non-ſence be natural to him) that be<g ref="char:EOLhyphen"/>comes him not. His buſineſs is to write lyes in the Name of the Lord, as the Prieſts of that Sect Preach. To rayl, to jeer at Saints, being a name, in which he is unintereſted, and miſapply Scripture. By theſe marks (as himſelf, by his no Ears) hath his ſtile been hitherto known. I ſhall not adviſe him againſt writing, it being as neceſſary as meat and drink, a thing without which, he cannot live. But I would adviſe his Readers, to read him as they would read or hear a tale of <hi>Oyſter women</hi> ſoolding with each other at <hi>Billings-Gate.</hi>
+            </p>
+            <p>That his Books can be of no advantage to the people in generall, nor particularly to any perſon, is moſt plaine in themſelves: for he doth not only make one diſcourſe contradict another (which might be excuſed by his naturall infirmitie of being inconſtant) but even the ſame diſcourſe contradict it ſelfe. Beſides, his ſcope is not to informe, but ca<g ref="char:EOLhyphen"/>lumniate, to caſt dirt in the face (though if he throw it, it can ſtick no where long) of ſome one or more men; and commonly he picks out the honeſteſt and moſt faithfull perſons too, nay, ſaviours of the Common-wealth; Witneſſe his <hi>Proteſtation,</hi> in which he endeavours, through the ſides of Sir <hi>Har<g ref="char:EOLhyphen"/>dreſſe Waller,</hi> and Colonell <hi>Pride,</hi> to wound the whole Army, by whoſe valour the Common-wealth is ſafe, and from whom only a ſafe and wel-grounded peace may be hoped for, and expected. He complaines in his Proteſtation, that <hi>comming to the Houſe of Commons to diſcharge his duty</hi> (his ſpleen
+<pb n="7" facs="tcp:164853:4"/>he meant) for which reaſon he bought his mem<g ref="char:EOLhyphen"/>berſhip twentie pounds cheaper then <hi>Thomas Tem<g ref="char:EOLhyphen"/>ple,</hi> (as Maſter <hi>Harris</hi> told him) <hi>He was the ſixt of December laſt ſtopped on the ſtaires, neare the dore of the Commons Houſe, and that ever ſince he hath been reſtrained of his liberty, which he calls a breath of Parliament Priviledge.</hi> I did intend to have given Mr. <hi>Prynne</hi> a particular anſwer, but becauſe divers other gentlemen are involved in the ſame caſe with Mr. <hi>Prynne,</hi> I ſhall therefore give no other; Then (as briefly as may be) to ſhew that the Army was neceſſitated to what they have done, and that the people could be no other way made ſafe, lying then upon the brincks of ruine. The King (to whom the very name of Parliament was alwayes hatefull) having ſo much diſcontented all his people, that in <hi>Scotland</hi> an Army was raiſed againſt him, which he knew not how to oppoſe (the <hi>Engliſh</hi> looking upon them as friends, and fellow ſufferers) as his laſt refuge; (finding no other way to ſecure him<g ref="char:EOLhyphen"/>ſelfe) calls this Parliament: for which, as ſoone as they meet together, they give him humble thankes, they bring him bills, which he (not da<g ref="char:EOLhyphen"/>ring to denie) ſignes and aſſents to, and with ſuch humble reverence make their addreſſes to him, as if he were as much better then the beſt, as he is worſe then the worſt of his Anceſtors. The King finding how weak adverſaries he had to deale with, conceives new hopes of doing miſchiefe, he tam<g ref="char:EOLhyphen"/>pers with divers men in the Houſe of Commons, he corrupts ſome of the moſt eminent, as the Lord <hi>George Digby,</hi> Sir <hi>John Culpepper,</hi> with ſome others, but finding notwithſtanding their Revolt, his par<g ref="char:EOLhyphen"/>tie
+<pb n="8" facs="tcp:164853:5"/>in Parliament not ſtrong enough to carrie on his baſe deſignes, he flies to other practizes; he deales firſt with the <hi>Engliſh</hi> Army, and that plot diſco<g ref="char:EOLhyphen"/>vered, with the <hi>Scots,</hi> to deſtroy the Parliament, and for their reward to take the plunder of <hi>London.</hi>
+            </p>
+            <p>This failing, he urgeth earneſtly to disband the Scotch Army only, in which prevailing, he, againſt the Counſell of both Houſes, in haſte takes a jour<g ref="char:EOLhyphen"/>ney into <hi>Scotland,</hi> there he contrives two plots, the one of which tooke effect; the moſt horrid and bloudie that ever any age was witneſſe to, the Iriſh Maſſacre, and Rebellion, acted by his Commiſſi<g ref="char:EOLhyphen"/>on, which was ſealed in his owne preſence, and ſent into <hi>Ireland,</hi> as is confeſt by a Scottiſh gentleman, in a book called <hi>Truth its manifeſt.</hi>
+            </p>
+            <p>Having done his worſt in <hi>Scotland,</hi> he returnes to <hi>London,</hi> and is received by the Citizens in triumph; his hopes are every day more and more confirmed: Some young gentlemen of the Innes of Court, with a number of diſſolute, needie, and debaucht Souldiers, and men of broken fortunes flock to <hi>White-hall.</hi>
+            </p>
+            <p>Thus attended, he enters the Houſe of Com<g ref="char:EOLhyphen"/>mons, and had he found them there, he had taken away five of their members; the next day he goes into <hi>London,</hi> and makes a faire ſpeech, but obtaines no beliefe; He then goes to <hi>Hampton Court,</hi> ſends for ſome Aldermen, whom he endeavours to make his friends, them he Knighted, and gave order to be ſent home ſo drunke, that their heads aking the next morning, all but Sir <hi>John Gaire,</hi> repenting their friendſhip, never did his Majeſtie any ſervice. From thence he goes to <hi>Dover</hi> with the Queen, whom he
+<pb n="9" facs="tcp:164853:5"/>ſends into the <hi>Low-Countries</hi> to pawne the Crowne Jewels, and then flies into open Rebellion.</p>
+            <p>The Parliament (though all his machinations and plots are diſcovered to them) ſeeke no way of remedy, but by Petition, (meanes very unlikely to worke upon his nature) till they were neceſſitated to take up Armes; and when they are to declare it to the Kingdome, they cant, and tell them, it is for the defence of the King and Parliament. Had they had but ſo much courage, as to have informed the Common wealth of the Kings guilt, and that his owne faults might have been written in his owne forehead, not an evill Councell (a thing without body or ſoule, an empty name, the old grave mens harmeleſſe bugbeare) the King either had not found ſo many abettors, or the Parliament had been able in a few moneths to have cruſht all his forces, and to have brought himſelfe to Juſtice.</p>
+            <p>In this canting courſe they ſteere the Common wealth, from the beginning of the yeare 1642. to the end of 1644. both ſides ſeeming ſo equally ſtrong, that (but for the cauſe) there was ſcarce any advantage diſcoverable: The Parliament new modell their Army, and in the meane time treate at <hi>
+                  <g ref="char:V">Ʋ</g>xbridge.</hi> The treaty ended without ſucceſſe, the new Modell goes on; Sir <hi>Thomas Fairfax</hi> is made General. The words, For preſervation of the Kings perſon are not inſerted in his Commiſſion, the King is now a common Rebell; we have now an Enemy to fight with, and ſee how God bleſſeth us upon it.</p>
+            <p>They meet no Enemyes in the field, but they beat them (not as in the time of the old Generall, that
+<pb n="10" facs="tcp:164853:6"/>fought drawn battles (with no more advantage, then might occaſion a City feaſt) counting it a victory not to be beaten) they come before no Town, but they take it in; and in leſs then eighteenth months reduce all <hi>England</hi> and <hi>Wales</hi> to obedience.</p>
+            <p>The King thus broken in all places (leaſt the har<g ref="char:EOLhyphen"/>raſt Countrey ſhould enjoy the benefit of Peace (which he might then have made) and miſerable <hi>Ireland</hi> obtain relief) falls again to plotting.</p>
+            <p>A little before the ſiege of <hi>Oxford,</hi> in a diſguiſe, with one or two, he rides through <hi>Norfolk</hi> and <hi>Suf<g ref="char:EOLhyphen"/>folk,</hi> endeavoring to raiſe new Commotions; but the Gentlemen of that Countrey, taking warning by other mens compoſitions, that deſigne came to nothing, ſo he leaves them, and commits himſelf to the Scotiſh Army. After ſome money paid, the Scotch, his Countreymen (knowing him too well, to care for his company, even in their own Land) de<g ref="char:EOLhyphen"/>liver him up to the Parliament. They, as men that never ſtated any quarrel, and could not tell what to have, if God ſhould give them victory, having him now in their hands, know not what to do with him, They bring him to <hi>Holdenby,</hi> and put him into a con<g ref="char:EOLhyphen"/>dition of making all Knaves that come neer him; in a ſhort time he adminiſtred, and ſent (by his ſeveral Agents) ſo much poyſon to the Parliament, that had it not pleaſed God to ſtrengthen the hearts and hands of the Army, he had been a yeer and a half ſince reſtored to his place and power; and by this time, thoſe few that had ſurvived, had been the unhappy witneſſes of a miſerable Land.</p>
+            <p>For Mr. <hi>Denzil Hollis,</hi> who was long ſince touch<g ref="char:EOLhyphen"/>ed and infected by the King, and the diſeaſe being
+<pb n="11" facs="tcp:164853:6"/>contagious, had in time infected divers of his com<g ref="char:EOLhyphen"/>pany, as Sir <hi>William Waller,</hi> Sir <hi>Philip Stapleton,</hi> and many others, (they together making up a Commit<g ref="char:EOLhyphen"/>tee of eleven, beſides my Lady <hi>Carlile</hi>) plotted and contrived to reſtore the King upon his own conditi<g ref="char:EOLhyphen"/>ons: To which purpoſe they conſider of how little the King may offer the Parliament, and how able they ſhould be to perſwade them that thoſe offers were ſatisfactory; in haſt they ſend Letters to the <hi>Queen,</hi> and in them their opinions, how the Com<g ref="char:EOLhyphen"/>mon-wealth might be cheated; ſhe returns their Papers, with amendments, which they ſend to the King; who (following their advice) ſends to the Parliament a Meſſage, the twelf of <hi>May,</hi> 1647. Which cauſed all that Petitioning, and all thoſe tumults which followed immediately after; forcing into the very houſe of Commons, compelling the Speaker to put what queſtions they pleaſed, and the Houſes to vote them.</p>
+            <p>Upon theſe juſt fears (there being no other re<g ref="char:EOLhyphen"/>fuge) the honeſt Members of each Houſe fly to the Army, the Army receive them, and marching up to <hi>London,</hi> reſeat them in their ſeveral Houſes, and return to quarter, as before, in the Countrey, every day drawning further from <hi>London,</hi> leaſt they might ſeem to be a force upon the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Parliament now freed from tumults, and the Heads of that Faction which had ſo long hin<g ref="char:EOLhyphen"/>dered Peace, fled into parts beyond the Seas, it was hoped that we might ſee an happy end of all our troubles. The Parliament conſider of Condi<g ref="char:EOLhyphen"/>tions of Peace to be ſent to the King, and accord<g ref="char:EOLhyphen"/>ingly
+<pb n="10" facs="tcp:164853:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:164853:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:164853:8"/>ſend them to <hi>Hampton Court;</hi> but he refuſeth them, and in hopes of doing miſchief (which is the ground-work of all his deſignes) puts on a new diſguiſe, and goes to try his fortune in the Iſle of <hi>Wight;</hi> whither alſo they follow him with Propo<g ref="char:EOLhyphen"/>ſitions for Peace: But he being <hi>vir ſanguinum,</hi> will have no Peace, unleſs ſuch an one, as may put him into a capacity of being heavier upon the people, then a continued War.</p>
+            <p>Hereupon, the Parliament Vote no more Ad<g ref="char:EOLhyphen"/>dreſſes to the King; the Army hearing of their Vote, ingage themſelves to live and dye in maintain<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>The eyes of all good men are now upon the Parliament, hoping to ſee the Common-wealth ſettled in a ſhort time. But the Malignants having ſhaken hands with the Malignants <hi>jure divino,</hi> con<g ref="char:EOLhyphen"/>trive a new War, which begins with Petitioning, the Counties of <hi>Bucks, Surrey, Eſſex,</hi> and <hi>Kent,</hi> ply the Parliament with Malignant Petitions. <hi>Wales</hi> without that formality flies into actual Rebellion: This occaſions the dividing of the Army; to each party of which, it pleaſed God to give ſuch victory, as that his own hand was more eſpecially ſeen in every one of them.</p>
+            <p>The Army now wholly imployed, the Malignant party of both Houſes ſend divers of their Members of the honeſt party into their ſeveral Countreys, under pretence of ſuppreſſing Inſurrections: And now (being able to Vote what they liſt) they call home, and reſtore to their places in Parliament, Mr. <hi>Hollis,</hi> Sir <hi>Iohn Clotworthy,</hi> and eight more, whom they had not long before expelled the Houſe, as
+<pb n="13" facs="tcp:164853:8"/>guilty of high Treaſon, and other miſde<g ref="char:EOLhyphen"/>meanors.</p>
+            <p>Now they may truly be called the Kings two Houſes, and as diligently act his part, as if it were their own; onely this misfortune intervened, the Countreys being a little beaten, inclined generally to peace; and the honeſt Members had leaſure to attend the ſervice of the Houſe (a rub not eaſily to be removed.) However they continue their endea<g ref="char:EOLhyphen"/>vors; and ſince they can work it no more to their advantage, they Vote a Perſonal Treaty with the King in the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>In this condition was the Parliament, from the beginning of the laſt Rebellion, to the coming in of the Army.</p>
+            <p>In publike Affairs, the King had bought the greateſt part, in private their particular Clyents; no Juſtice could be had at any Committee, nor in the Houſe it ſelf, without money (except for Malig<g ref="char:EOLhyphen"/>nants of one ſort or the other,) <hi>Venalis curia Patrum.</hi>
+            </p>
+            <p>The Writs that were ſent into <hi>Cornwal,</hi> under the Parliaments Seal, for Election of Burgeſſes, brought up a great number of Malignants to the Houſe; for the Gentry of that County (who rule the people as ſlaves) having engaged in the Rebellion (and there<g ref="char:EOLhyphen"/>fore uncapable of being choſen) ſold places to men ill-affected, for as much money as they could get. A Gentleman going to Mr. <hi>Harris,</hi> and acquainting him with his deſires to ſerve in Parliament, received this Anſwer, That he knew not of any Burrough that was unprovided; but if any ſuch there were, it could not now be had for a hundred pounds. To
+<pb n="14" facs="tcp:164853:9"/>live under ſuch a ſupreme power, is ſuch a Tyranny, as never any Engliſh man was yet acquainted with.</p>
+            <p>And this Parliament muſt continue till it be diſ<g ref="char:EOLhyphen"/>ſolved by Act: At the time when the Act was paſt for continuing the Parliament, till it ſhould be diſ<g ref="char:EOLhyphen"/>ſolved by Act, They had furniſhed the Kings neceſ<g ref="char:EOLhyphen"/>ſities, they had removed that War which the King by his injuſtice had drawn upon the Engliſh Nation, they paid the Army which he had raiſed, they had contracted ſeveral great publike Debts, for which they could have no other ſecurity; as alſo that grievances ſhould be redreſt: they by reaſon of thoſe troubles which the King ſtill gave them, not having time ſooner to conſider of them: Beſides, the Parliament was then honeſt, fit to reform, which it was not now, at the time when the Army came into <hi>London.</hi> If it be a ſin in a particular perſon to neglect an opportunity of doing good, it is much more a ſin in this Army, whom God hath owned ſo wonderfully in all their Actions, and whom (I am confident) he hath raiſed to do this work. It is (therefore) ignorance or malice in them, that pub<g ref="char:EOLhyphen"/>likely write and prate in Pulpits, and at other meet<g ref="char:EOLhyphen"/>ings, That it is a great Breach of Parliament privi<g ref="char:EOLhyphen"/>ledg, to ſtop the Members going into the Houſe to diſcharge their duty: Had it been to diſcharge their duty to the Countreys and Towns, for which they were elected, they had not been ſtopt. But Mr. <hi>Prynne,</hi> and the reſt of his impriſoned friends came with no ſuch intention; they came to ſerve the common enemy, and to deſerve at his hands the Offices, and ſuch other things as he hath promiſed
+<pb n="15" facs="tcp:164853:9"/>them, and would, ſhould he be inthroned, cheat them of, except he chance to finde a knave or two amongſt them, more able to help him in couſening the people, then thoſe fellows whom he had earlier engaged in that employment. They indeed may live gallantly, and enjoy every thing but a good conſcience; and dying, ſhall leave their children a rich inheritance of ſlavery and thraldom.</p>
+            <p>For my part, I honour Parliaments ſo long as they Act in Order to the publique good: But if, like ſtanding pooles, they only gather mudd and filth, I thinke it very fit to cleanſe them. This trouble the Army hath taken upon them, which if they had not done, this Nations ruine had been unavoidable. Can it be thought that the King likes the Conditi<g ref="char:EOLhyphen"/>on that he is in? or that he tooke it kindly to be beaten? or that he hath already forgotten his over<g ref="char:EOLhyphen"/>throwes? and that he may in a moneth or two, be<g ref="char:EOLhyphen"/>ing reſtored to liberty with honour, ſafetie, and freedome, forget his preſent impriſonment? Are not his Letters of moſt concernment printed by Or<g ref="char:EOLhyphen"/>der of Parliament, to his perpetuall diſhonour? Votes paſt againſt any more addreſſes, his wife charged with high Treaſon, his revenue ſeized, &amp;c. Are theſe ſuch provocations as may be eaſily forgotten? In the tenth yeare of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond, the Duke of <hi>Gloceſter,</hi> unckle to the King, the Earle of <hi>Arundell,</hi> the Earle of <hi>Warwick,</hi> with o<g ref="char:EOLhyphen"/>thers raiſe Armes to redreſſe grievances (this Army doth leſſe, and may doe more) they call a Parlia<g ref="char:EOLhyphen"/>ment, (this Army may as lawfully (if it be for the peoples good, and no other way be found) diſ<g ref="char:EOLhyphen"/>ſolve a Parliament,) trie Delinquents, and bring
+<pb n="16" facs="tcp:164853:10"/>them to puniſhment, (Kindred in either houſe was no reprieve.) The King after this ſeemes to forget all; all is kindneſſe betwixt him and thoſe Lords, till the 18th. yeare of his Raigne, when he calls a Parliament, overaweth them with an Army, en<g ref="char:EOLhyphen"/>forceth them to recall his Charters of pardon, puts his Unckle to death at <hi>Callis,</hi> without any forme of Tryall, beheads <hi>Arundell,</hi> and baniſheth <hi>Warwick</hi> into the <hi>Iſle of Man.</hi>
+            </p>
+            <p>Better things are not to be expected from this King.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
